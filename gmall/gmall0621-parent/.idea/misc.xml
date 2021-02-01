@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/gmall0621-logger/pom.xml" />
+        <option value="$PROJECT_DIR$/gmall0621-realtime/pom.xml" />
+        <option value="D:/sggstudy/0621大数据/spark/大数据_200621/Felix_02_尚硅谷大数据技术之实时项目/4.视频/day14/gmall0621-parent/gmall0621-publisher/pom.xml" />
+        <option value="$PROJECT_DIR$/gmall0621-publisher_review/pom.xml" />
+        <option value="D:/sggstudy/0621大数据/spark/大数据_200621/Felix_02_尚硅谷大数据技术之实时项目/4.视频/day14/gmall0621-parent/dw-chart/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

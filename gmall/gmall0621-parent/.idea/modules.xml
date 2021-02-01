@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:/sggstudy/0621大数据/spark/大数据_200621/Felix_02_尚硅谷大数据技术之实时项目/4.视频/day14/gmall0621-parent/dw-chart/dw-chart.iml" filepath="D:/sggstudy/0621大数据/spark/大数据_200621/Felix_02_尚硅谷大数据技术之实时项目/4.视频/day14/gmall0621-parent/dw-chart/dw-chart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall0621-logger/gmall0621-logger.iml" filepath="$PROJECT_DIR$/gmall0621-logger/gmall0621-logger.iml" />
+      <module fileurl="file://D:/sggstudy/0621大数据/spark/大数据_200621/Felix_02_尚硅谷大数据技术之实时项目/4.视频/day14/gmall0621-parent/gmall0621-publisher/gmall0621-publisher.iml" filepath="D:/sggstudy/0621大数据/spark/大数据_200621/Felix_02_尚硅谷大数据技术之实时项目/4.视频/day14/gmall0621-parent/gmall0621-publisher/gmall0621-publisher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall0621-publisher_review/gmall0621-publisher_review.iml" filepath="$PROJECT_DIR$/gmall0621-publisher_review/gmall0621-publisher_review.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall0621-realtime/gmall2020-realtime.iml" filepath="$PROJECT_DIR$/gmall0621-realtime/gmall2020-realtime.iml" />
+    </modules>
+  </component>
+</project>
